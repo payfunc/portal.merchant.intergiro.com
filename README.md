@@ -1,2 +1,2 @@
-# portal.payfunc.com
-Main page for the PayFunc Portal.
+# portal.merchant.intergiro.com
+Main page for the Intergiro Portal.
